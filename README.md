@@ -1,6 +1,6 @@
 Hi people!
 
-I am an Android Developer and a Competitive Programmer. I’m currently working on a Django project, and I think it is actually interesting. You may few of my work in my github repositories.
+I am an Android Developer and a Competitive Programmer. I’m currently working on a Django project, and I think it is actually interesting. You may look at few of my work in my github repositories.
 
 - 📫 How to reach me **sshreya2912@gmail.com**
 
